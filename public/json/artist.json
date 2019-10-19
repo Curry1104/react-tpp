@@ -3,32 +3,32 @@
     {
       "name": "陈思成",
       "job": "导演",
-      "image": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469073193.92.webp"
+      "image": "/source/artist/asset1.jpeg"
     },
     {
       "name": "王宝强",
       "job": "饰 唐仁",
-      "image": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356403251.95.webp"
+      "image": "/source/artist/asset2.jpeg"
     },
     {
       "name": "刘昊然",
       "job": "饰 秦风",
-      "image": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.webp"
+      "image": "/source/artist/asset3.jpeg"
     },
     {
-      "name": "佟丽娅",
-      "job": "饰 阿香",
-      "image": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367210981.95.webp"
+      "name": "刘承羽",
+      "job": "饰 陈英",
+      "image": "/source/artist/asset4.jpeg"
     },
     {
       "name": "陈赫",
       "job": "饰 黄sir",
-      "image": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1420296836.46.webp"
+      "image": "/source/artist/asset5.jpeg"
     },
     {
       "name": "肖央",
       "job": "饰 泰哥",
-      "image": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518431956.11.webp"
+      "image": "/source/artist/asset6.jpeg"
     }
   ],
   "status": 0,
