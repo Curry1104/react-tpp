@@ -1,0 +1,67 @@
+{
+  "msg": "ok",
+  "status": 0,
+  "data": {
+    "city": "成都",
+    "poster": [{
+      "image": "/source/slide/slide1.jpeg"
+    }, {
+      "image": "/source/slide/slide2.jpeg"
+    }, {
+      "image": "/source/slide/slide3.jpeg"
+    }, {
+      "image": "/source/slide/slide4.jpeg"
+    }, {
+      "image": "/source/slide/slide5.jpeg"
+    }],
+    "movie": [{
+      "poster": "/source/movie/asset1.jpeg",
+      "name": "厉害了，我的国",
+      "description": "无所谓",
+      "score": 9.3,
+      "director": "卫铁",
+      "actor": "",
+      "tags": []
+    }, {
+      "poster": "/source/movie/asset2.jpeg",
+      "name": "红海行动",
+      "description": "无所谓",
+      "score": 9.3,
+      "director": "林超贤",
+      "actor": "张译",
+      "tags": ["今日最佳", "口碑最好"]
+    }, {
+      "poster": "/source/movie/asset3.jpeg",
+      "name": "小萝莉与猴神大叔",
+      "description": "无所谓",
+      "score": 9.4,
+      "director": "卡比尔·汗",
+      "actor": "萨尔曼·汗",
+      "tags": ["今日最佳"]
+    }, {
+      "poster": "/source/movie/asset4.jpeg",
+      "name": "唐人街探案2",
+      "description": "无所谓",
+      "score": 8.9,
+      "director": "陈思成",
+      "actor": "刘浩然",
+      "tags": []
+    }, {
+      "poster": "/source/movie/asset5.jpeg",
+      "name": "比得兔",
+      "description": "无所谓",
+      "score": 7.4,
+      "director": "威尔·古勒",
+      "actor": "萝丝·拜恩",
+      "tags": []
+    }, {
+      "poster": "/source/movie/asset6.jpeg",
+      "name": "三块广告牌",
+      "description": "无所谓",
+      "score": 8.9,
+      "director": "马丁·麦克唐纳",
+      "actor": "弗兰西斯·麦克多蒙德",
+      "tags": ["口碑最好"]
+    }]
+  }
+}

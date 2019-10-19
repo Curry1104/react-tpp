@@ -3,11 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "heroku": "^7.33.3",
+    "npm-run-all": "^4.1.5",
+    "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-slick": "^0.25.2",
+    "redux": "^4.0.4"
   },
   "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,5 +36,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0"
   }
 }

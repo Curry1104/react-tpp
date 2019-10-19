@@ -1,0 +1,15 @@
+.star {
+  display: inline-block;
+  background-position: 0 50%;
+  background-repeat: repeat-x;
+  background-image: url("../icons/star-o.svg");
+  // background: #fff url("../icons/star-o.svg") 0 50% / contain repeat-x;
+
+  &__top {
+    height: 100%;
+    background-position: 0 50%;
+    background-repeat: repeat-x;
+    background-image: url("../icons/star.svg");
+    // background: #fff url("../icons/star.svg") 0 50% / contain repeat-x;
+  }
+}
