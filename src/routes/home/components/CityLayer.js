@@ -62,12 +62,6 @@ class CityLayer extends Component {
               );
             })
           }
-          <div className="cityList" id="A">
-            <div className="cityList__label">A</div>
-            <ul className="cityList__wrap">
-              <li className="cityList__item">阿克苏</li>
-            </ul>
-          </div>
         </div>
         <div className="cityLayer__index cityIndex">
           <ul className="cityIndex__list">
